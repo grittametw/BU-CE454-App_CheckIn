@@ -1,16 +1,11 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App_CheckIn (Final Project)  
+Grittamet Wilai  
+Subject: Mobile Application Development (CE454)  
+Section: 436A  
+About:  
+  Use flutter to make apps with the following conditions:  
+    1.Login Page: Login with student ID and password. After successful login, redirect to the page displaying registered courses.  
+    2.Registered Courses Page: Display all courses registered for the current semester. Include a button to view the student's profile.  
+    3.Student Profile Page: Display student profile information. Include a button to navigate back to the registered courses page.  
+    4.Attendance Check Page: Clicking on each course displays detailed information about that course, along with a button to check attendance and navigate back.  
+    5.Attendance Confirmation Page: After clicking the attendance check button, display a confirmation page with a button to return to the registered courses page.
